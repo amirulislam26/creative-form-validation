@@ -13,7 +13,7 @@ body{
 .container{
     box-shadow: 5px 5px 60px white;
     border-radius: 15px;
-    padding: 40px;
+    padding: 60px;
 }
 /*...................form css start............................*/
 form{
@@ -27,9 +27,20 @@ form{
 h1{
     color:springgreen;
 }
+.text{
+    text-decoration: none;
+}
+.live-site{
+    color:springgreen;
+    font-size: 30px;
+    margin-right: 30px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
 
+}
 form input{
-background-color: rgb(215, 185, 145);
+background-color: rgb(239, 224, 204);
 height: 48px;
 width: 100%;
 border: 2px solid powderblue;
